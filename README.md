@@ -1,3 +1,11 @@
+# github.com/alexander-melentyev/gin-nocache
+
+The github.com/alexander-melentyev/gin-nocache Go module is not available
+anymore, and this is just a clone of it.
+
+Thanks to Alexander Melentyev for having developed this really useful package.
+
+
 # NoCache
 
 [![Build Status](https://travis-ci.org/alexander-melentyev/gin-nocache.svg?branch=master)](https://travis-ci.org/alexander-melentyev/gin-nocache)
