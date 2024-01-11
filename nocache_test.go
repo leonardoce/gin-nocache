@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	nocache "github.com/alexander-melentyev/gin-nocache"
 	"github.com/gin-gonic/gin"
+	nocache "github.com/leonardoce/gin-nocache"
 	"github.com/stretchr/testify/require"
 )
 

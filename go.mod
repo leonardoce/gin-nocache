@@ -1,4 +1,4 @@
-module github.com/alexander-melentyev/gin-nocache
+module github.com/leonardoce/gin-nocache
 
 go 1.15
 
